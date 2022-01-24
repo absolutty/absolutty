@@ -2,13 +2,23 @@
 
 <img src="https://github.com/absolutty/absolutty/blob/master/loading-bar.gif"/>
 
+> citát: "*The only way to learn a new programming language is by writing programs in it.*" - Dennis Ritchie
 
-> citát: "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie 
+> loop: "*while(!succeed) { tryAgain(String...skusenosti) }*" 
 
-> loop: " while(!succeed) { tryAgain(String...skusenosti) } " 
+- 🏫 študentom **Žilinskej univerzity Žiline**, Fakulta riadenia a informatiky
 
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 ### Nájdete ma na:
-
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/adamgooo758/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/didlydidlydu/)
 
